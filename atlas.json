@@ -1,7 +1,7 @@
-{
+/{
   "branch": "main",
-  "files": [
-    "book/cover.html",
+  "untracked files": [
+    "handbook/playbook.html",
     "LICENSE.asc",
     "book/preface.asc",
     "book/contributors.asc",
@@ -70,4 +70,4 @@
   },
   "theme": "oreillymedia/atlas_tech1c_theme",
   "title": "Pro Git"
-}
+}/
